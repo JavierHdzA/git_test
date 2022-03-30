@@ -1,2 +1,2 @@
-Hello world, this is my first oractice for The Odin Project Curriculum
+Hello world, this is my first practice for The Odin Project Curriculum
 Ps, I love it.
